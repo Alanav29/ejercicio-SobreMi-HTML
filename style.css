@@ -1,0 +1,16 @@
+body {
+	font-family: "Montserrat", sans-serif;
+}
+
+#profilePhoto {
+	width: 300px;
+	border-radius: 999px;
+}
+
+dt {
+	font-weight: bold;
+}
+
+p {
+	max-width: 500px;
+}
